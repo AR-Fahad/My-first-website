@@ -1,0 +1,13 @@
+h3{
+   background-color: burlywood;
+   text-align: center;
+}
+*{
+    /* margin: 0; */
+}
+.lorem{
+    border: 15px solid cornflowerblue;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: burlywood;
+}
