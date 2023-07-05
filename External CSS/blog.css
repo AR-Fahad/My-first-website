@@ -1,6 +1,8 @@
 h3{
    background-color: burlywood;
    text-align: center;
+   margin-bottom: 0px;
+   text-decoration: underline;
 }
 *{
     /* margin: 0; */
@@ -9,5 +11,12 @@ h3{
     border: 15px solid cornflowerblue;
     border-radius: 15px;
     padding: 20px;
+    background-color: burlywood;
+    margin-top: 0px;
+    font-weight: bold;
+}
+.git{
+    border: 15px solid rgb(10, 244, 220);
+    border-radius: 15px;
     background-color: burlywood;
 }
